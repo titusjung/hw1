@@ -1,0 +1,18 @@
+a
+1. yes
+2. no
+3. yes
+4. no
+5. yes
+6. no
+7. no
+b
+
+b
+2 3 4 5 7
+
+c
+1 false
+2. false
+3. true
+4. true
